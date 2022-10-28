@@ -1,68 +1,90 @@
 [
     {
-        "catagori_id":"01",
-        "id":"01",
+        "catagory":"1",
+        "price":"45",
+        "id":"01p",
         "name":"Python Basic",
+        "img":"https://i.ibb.co/N7Ytypc/Python.png",
         "detail":"Learning.Com brings this course named Python Basic which is designed for everyone. This course discusses - Why learning programming is necessary, why to choose Python among programming languages, Software Installation method of writing Python program, Introduction to Data Types of Python (Integers, floats, Booleans, Strings, Lists, Tuples, Sets) and and usage (Dictionaries and compound data structure). In addition, Python's operator introduction and use in calculation, creation of logical statement using Python's operators and use of control flow are also highlighted."
     },
     {
-        "catagori_id":"01",
-        "id":"02",
+        "catagory":"1",
+        "price":"85",
+        "id":"02j",
         "name":"Javascript & ES6 Basics",
+        "img":"https://i.ibb.co/LQW5gp0/Javascript.jpg",
         "detail":"The importance of JavaScript as a Web Technology is immense. Because, it is currently used by 94.5% of all websites. As a client-side programming language, JavaScript helps web developers make web pages dynamic and interactive by implementing custom client-side scripts. At the same time, developers can use cross-platform runtime engines like Node JS to write server-side code in JavaScript. They can even combine JavaScript, HTML5 and CSS3 to create web pages that look great across browsers, platforms and devices. Besides, every modern web developer needs to know how to use all the advantages of JavaScript. So don't delay and enroll today for Learning.Com JavaScript & ES6 Basics for Beginners with Problem Solving and Projects"
     },
     {
-        "catagori_id":"01",
-        "id":"03",
+        "catagory":"1",
+        "price":"65",
+        "id":"03nm",
+        "img":"https://i.ibb.co/BwSW586/node.jpg",
         "name":"NodeJS and MongoDB developer",
         "detail":"Learning.Com comes up with NodeJS and MongoDB developer course which teaches the backend of Web Development which is basically built using the Backend API, NodeJS and MongoDB. Besides, two projects are also shown in this course. So needless to say, the main aim of this course is to enable you to create any Backend Website using Backend API, NodeJS and MongoDB."
     },
     {
-        "catagori_id":"02",
-        "id":"01",
+        "catagory":"2",
+        "price":"35",
+        "id":"01mp",
+        "img":"https://i.ibb.co/fCq6DdJ/mobile-potograpy.jpg",
         "name":"Mobile Photography",
         "detail":"Man's fondness for keeping memories is very old. At one time people did photography only as a hobby, but with the change of era, there has been a change in people's thinking. Now many people have chosen photography as a profession. So for those who want to learn photography as a hobby or career, Learning.Com brings this international award-winning Basic Photography Course. At the end of the course there is a photography certificate from Learning.Com .So why the delay? Join today"
     },
     {
-        "catagori_id":"02",
-        "id":"02",
+        "catagory":"2",
+        "price":"95",
+        "id":"02wb",
         "name":"Web Design",
+        "img":"https://i.ibb.co/SdqFPgJ/web.png",
         "detail":"One of the most popular questions in the Internet world is How to create a website? So with the development of IT Industry in Bangladesh, the requirement of Web Designer has increased. And creating an online platform for you or your business is basically the work of Web Design. If you want to make a career in Web Design, first you need to know the language of Web Design. So in Learning.Com's Web Design course, you will get a complete web design tutorial on HTML and CSS, which will make you proficient and self-reliant in web design. Therefore, without further delay, enroll in 'Web Design' course today to build your career in the current Job Market."
     },
     {
-    "catagori_id":"05",
-    "id":"01",
+    "catagory":"5",
+    "price":"85",
+    "id":"01bd",
+    "img":"https://i.ibb.co/R0XPFdN/drone.jpg",
     "name":"Basic to Advance Drone Tutorial",
     "detail":"Drones are the most trendy gadgets these days. Everyone has a fascination with drones. Some people buy drones as a hobby, others buy them to create content. But buying a drone does not make beautiful pictures or cinematic videos. It requires basic knowledge. So Learning.Com's Basic to Advance Drone Tutorial course covers all the basics of drones. Through which you can also know and learn all the basics of drones, and can capture beautiful moments with drones."
     },
     {
-    "catagori_id":"05",
-    "id":"02",
+    "catagory":"5",
+    "price":"75",
+    "id":"02ccna",
+    "img":"https://i.ibb.co/kDZSFpx/ccna.jpg",
     "name":"DevOps 102: CCNA for IT Professionals",
     "detail":"Now, About 85% of the world's Internet data flows through Cisco devices? And to manage these Cisco devices, one must know how to configure, manage and troubleshoot these types of devices. CCNA (Cisco Certified Network Associate) is a popular certification offered by a company called Cisco Systems. It is for all types of engineers including entry-level network engineers, network administrators, network support engineers and network specialists. And this course is the second course in our DevOps Course Series which helps you get familiar with networking concepts like OSI Model, IP Address, Network Security etc."
     },
     {
-    "catagori_id":"04",
-    "id":"01",
+    "catagory":"4",
+    "price":"55",
+    "id":"01el",
+    "img":"https://i.ibb.co/MBNv8W8/Spoken.jpg",
     "name":"English for Daily Life",
     "detail":" In today's age there is a need to speak English regardless of your profession but everyone has it. We have to speak English more or less in the country or outside the country. It may be to get to know someone abroad, or during an interview, in a restaurant or to deliver products. In addition, we have to speak English constantly for consulting doctors, talking to customers, and so on.So why the delay? Join today"
     },
     {
-    "catagori_id":"04",
-    "id":"02",
+    "catagory":"4",
+    "price":"25",
+    "id":"02kc",
+    "img":"https://i.ibb.co/7bpgH8V/korea.jpg",
     "name":"Korean Language Course",
     "detail":" South Korea is one of the fastest growing economies in the world. And with the increase in the use of modern technology, a large number of jobs have been created in South Korea's service industry. In addition, many are involved in importing various Korean products or many other businesses, who need to learn the Korean language. And that's why people's affinity towards Korean language is increasing day by day. Therefore, Learning.Com brought this 'Korean Language Course' for those who are thinking of going to Korea to build a career in the Korea."
     },
     {
-    "catagori_id":"03",
-    "id":"01",
+    "catagory":"3",
+    "price":"65",
+    "id":"01idg",
+    "img":"https://i.ibb.co/xjcMWw4/Digital.jpg",
     "name":"Internet Marketing with Google My Business",
-    "detail":" Internet Marketing is a very important medium of Digital Marketing. And we have divided this Internet Marketing course into 3 parts, the first part of which is discussed about Google My Business. Google My Business is a feature of Google, but most of the businesses in Bangladesh still do not know much about this Google My Business. So using Google My Business, how a business can make its business visible for free in front of people and how it can take its business to a better place is discussed in this 'Internet Marketin with Google My Business' course."
+    "detail":" Internet Marketing is a very important medium of Digital Marketing. And we have divided this Internet Marketing course into 3 parts, the first part of which is discussed about Google My Business. Google My Business is a feature of Google, but most of the businesses in Outside of Europe and America still do not know much about this Google My Business. So using Google My Business, how a business can make its business visible for free in front of people and how it can take its business to a better place is discussed in this 'Internet Marketin with Google My Business' course."
     },
     {
-    "catagori_id":"03",
-    "id":"02",
+    "catagory":"3",
+    "price":"35",
+    "id":"02ali",
     "name":"Advanced B2B and enterprise Sales techniques",
+    "img":"https://i.ibb.co/D5J623V/B2b.png",
     "detail":"Learning.Com comes up with this course titled 'Advanced B2B and enterprise Sales techniques' which provides a toolkit of skills required for dynamic sales. It is designed as a self-contained course to help participants discover what it takes to become better at selling. Usually the company's direct representatives want to improve market share, expand opportunities, or provide their respective companies with more financial stability to increase sales. This course will prepare them to face all those business challenges.So why the delay? Join today"
     }
 ]

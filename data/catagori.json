@@ -1,20 +1,17 @@
 [ 
-  {"id":"01",
+  {"id":"1",
    "name":"Programimig & App Development"
 },
-  {"id":"02",
+  {"id":"2",
    "name":"Creatyvity & Design"
 },
-  {"id":"03",
+  {"id":"3",
    "name":"Seles & Marketing"
 },
-  {"id":"04",
+  {"id":"4",
    "name":"Language Leaning"
 },
-  {"id":"05",
+  {"id":"5",
    "name":"Technology"
-},
-  {"id":"06",
-   "name":"Our All courses"
 }
 ]
